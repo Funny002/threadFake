@@ -1,0 +1,16 @@
+{
+  "name": "threadfake",
+  "version": "0.0.1",
+  "description": "This is a fake multithreading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thread",
+    "thread_fake"
+  ],
+  "types": "index.d.ts",
+  "author": "Funny002 <funnydsu@gmail.com>",
+  "license": "MIT"
+}
