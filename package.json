@@ -1,6 +1,6 @@
 {
   "name": "threadfake",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This is a fake multithreading",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
   ],
   "types": "index.d.ts",
   "author": "Funny002 <funnydsu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funny002/threadFake.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Funny002/threadFake/issues"
+  },
+  "homepage": "https://github.com/Funny002/threadFake#readme"
 }
